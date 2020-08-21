@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"image": "https://via.placeholder.com/150x100",
+		"name":"John",
+		"age":"27 years",
+		"occupation":"Painter",
+		"salary":"3100"
+	},
+	{
+		"id": 2,
+		"image": "https://via.placeholder.com/150x100",
+		"name":"Anne",
+		"age":"25 years",
+		"occupation":"Driver",
+		"salary":"4050"
+	},
+	{
+		"id": 3,
+		"image": "https://via.placeholder.com/150x100",
+		"name":"Carl",
+		"age":"21 years",
+		"occupation":"Student",
+		"salary":"1150"
+	},
+	{
+		"id": 4,
+		"image": "https://via.placeholder.com/150x100",
+		"name":"Alex",
+		"age":"29 years",
+		"occupation":"Software Developer",
+		"salary":"4550"
+	},
+	{
+		"id": 5,
+		"image": "https://via.placeholder.com/150x100",
+		"name":"Thomas",
+		"age":"32 years",
+		"occupation":"Doctor",
+		"salary":"6050"
+	},
+	{
+		"id": 6,
+		"image": "https://via.placeholder.com/150x100",
+		"name":"Anna",
+		"age":"37 years",
+		"occupation":"Teacher",
+		"salary":"2050"
+	}
+]
